@@ -1,9 +1,13 @@
 {
-    "applinks": {
-        "apps" :[],
-        "details":{
-            “3VS57TGW7S.com.tipmedcom.usummit.development” :{
-                "paths": ["*"]
-        }
-    }
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "3VS57TGW7S.com.tipmedcom.usummit.development",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
 }
